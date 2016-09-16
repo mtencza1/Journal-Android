@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Journal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_entry">EntryActivity</string>
+    <string name="title_activity_journal_title">JournalTitleActivity</string>
+    <string name="journal">Journal</string>
+</resources>
